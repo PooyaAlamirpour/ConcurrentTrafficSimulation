@@ -24,8 +24,12 @@ Here, I am going to explain how you can install the OpenCV library in Ubuntu for
 ```$ sudo apt-get upgrade```
 
 ### Install dependencies
-```$ sudo apt-get install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev```
+```bash 
+$ sudo apt-get install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+```
+
 ```$ sudo apt-get install python3.5-dev python3-numpy libtbb2 libtbb-dev```
+
 ```$ sudo apt-get install libjpeg-dev libpng-dev libtiff5-dev libjasper-dev libdc1394-22-dev libeigen3-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev sphinx-common libtbb-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libopenexr-dev libgstreamer-plugins-base1.0-dev libavutil-dev libavfilter-dev libavresample-dev```
 
 ### Get OpenCV
